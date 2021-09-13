@@ -1,0 +1,104 @@
+>Hello there young one
+A] Say Hi       *allow a give up button
+    >Hi
+    A] Hi
+        >Hello
+        A] Hi
+            >Bonjour
+            A] Hola
+                >Salve
+                A] Yes
+                    >Yes
+                    A] Yes
+                        >Yes
+                        A] Yes
+                            >You and GigaChad do this for the remainder of the day. The day turns to night. Night turns into a week. A week turns into a month. You can no longer remember how this was started.
+                            To: index.html
+                            ENDING: Yes
+    B] Ask about the weather
+        To: weather.html
+      B] Surrender
+        >GigaChad can not be defeated.
+        To: index.html
+  
+    
+
+B] Shake Hand
+    > <i>*Crunch.</i> Sorry there bud. Nice grip though.
+    A] Ask how he got so strong
+        > It was quite simple really. I just traveled through a mountain everyday. Lots of GigaChad shaped-holes afterwards though.
+        A] Ask if he can train you
+            >Yes! To prove yourself worthy for GigaChad Training, you must follow the GigaChad Code.
+                A] Nod
+                    >First, how long does a GigaChad cook his Sushi?
+                        A] 12.5 Min
+                            > Eh! It's going to explode. Try that again.
+                            A] Retry (back to question)
+                        B] Around 48 Pushups Worth
+                            >Perfect! Next Question
+                            A] Retry (back to question)
+                        C] Field Goal
+                            >Close, that is for OmegaChads. Think Higher.
+                            A] Retry (back to question)
+                        D] Yes
+                            >Yes. Absolutely.
+                            A] Retry (back to question)
+                        
+                        >How strong does is a GigaChad's Chin?
+                            A] Herculese
+                                >Ah yes, the firt GigaChad. But no.
+                            B] Netherite Pickaxe
+                                >Ha! You think a netherite picaxe can break this!
+                            C] Acorn soft
+                                >Words don't come easy to you do they?
+                            D] It must hold 32 condenced apple baskets.
+                                >Yes! It is the standard we live to.
+                        
+                            >One More. What is GigaChad's best friend and nemisis.
+                                A] The MegaVirgin
+                                    >Haha! I love that guy!
+                                B] John
+                                    >Who?
+                                C] Regular Chad
+                                    >Wait, that's past me. Woah, I think I'm getting an existensial crisis.
+                                D] GigaDoge
+                                    >Do you know him?! I owe $35 and don't plan on paying him back anytime soon!
+                                    
+                                    >You have Completed the GigaChad Test. I will train you.
+                                    A] Continue
+                                        > <i>You train day and night and evolve into: Yes Chad</i>
+                                        IMG: GigaChad and Yes Chad looking at each other
+                                        ENDING: Chad Evolution
+                                        A] Back to Begining
+                                            TO: index.html
+
+        
+        B] High Five Him
+            > High Five Man! <i>You get blown to pieces</i>
+            A] Retry
+
+    B] Ask about the weather
+        >I hear that it is going to rain cats and dogs soon. I will attempt to adopt one.
+        A] Tell GigaChad it isn't actually going to rain cats and dogs.
+            >We'll See
+            A] Continue
+                > <i>That night, it started raing actualy Cats and Dogs just as GigaChad said.</i>
+                IMG] Cats and Dogs Falling from the sky with GigaChad's face edited overtop
+
+        B] Ask about Pets
+            >Ah Yes! I have a spider. I named him GigaSpiderChad! Do you want to see him?
+            A] Yes
+                > <i>He brings out GigaSpiderChad. He flexes at you and you pass out.</i>
+                ENDING:
+                IMG: GigaChad and GigaSpiderChad next to each other.
+                A] Back to Begining
+                    TO:index
+            B] I'm Fine
+                >Your loss.
+                A] Leave and Come Back
+                    To: index
+                    #ENDING: Unexpected Survival
+                B] Ask How he got so strong
+                    To: Strong.html
+                    
+            

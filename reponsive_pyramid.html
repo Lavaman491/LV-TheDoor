@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html land='en-US'>
+  <head>
+    <style>
+      @charest: 'utf-8';
+      #selectorLink {
+        text-decoration:none;
+        color: black;
+      }
+    </style>
+    <script>
+      function selectItem(item) {
+        document.getElementById('selected').innerHTML = item;
+      }
+    </script>
+  </head>
+  <body>
+    
+    <a id='selectorLink' href='javascript:selectItem("Selected Display")'><h2 id='selected'>Nothing Selected</h2></a>
+    <img src='Venn-Pyramid.png' alt='Venn Pyramid' usemap='#VPMap'>
+    <map name='VPMap'>
+      <!-- <area shape='circle' coords='220,220,215' href='javascript:selectItem("Venn Pyramid")'> -->
+      <area shape='default' href='javascript:selectItem("Nothing Selected")'>
+      <area shape='poly' coords='60,382, 5,225, 80,45, 235,10, 415,110, 440,225, 375,375, 222,225' href='javascript:selectItem("Sky")'>
+      <area shape='poly' coords='222,225, 375,375, 310,420' href='javascript:selectItem("Shady Side of Pyramid")'>
+      <area shape='poly' coords='222,225, 310,420, 195,440, 60,382' href='javascript:selectItem("Sunny Side of Pyramid")'>
+      <area shape='circle' coords='525,120,30'  href='javascript:selectItem("Sky")'>
+      <area shape='circle' coords='525,205,30'  href='javascript:selectItem("Sunny Side of Pyramid")'>
+      <area shape='circle' coords='525,290,30'  href='javascript:selectItem("Shady Side of Pyramid")'>
+    </map>
+    
+  </body>
+</html>
